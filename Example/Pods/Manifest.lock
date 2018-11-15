@@ -1,0 +1,16 @@
+PODS:
+  - TZCoupon (0.1.0)
+
+DEPENDENCIES:
+  - TZCoupon (from `../`)
+
+EXTERNAL SOURCES:
+  TZCoupon:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TZCoupon: 35845232b1e4539f2ab14f8c71a0e269cb23b242
+
+PODFILE CHECKSUM: 7a31f85a0054e75426644cef70480f7ebefa23ec
+
+COCOAPODS: 1.6.0.beta.2

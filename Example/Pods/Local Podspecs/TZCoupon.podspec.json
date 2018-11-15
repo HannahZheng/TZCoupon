@@ -1,0 +1,22 @@
+{
+  "name": "TZCoupon",
+  "version": "0.1.0",
+  "summary": "A short description of TZCoupon.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Hannah/TZCoupon",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Hannah": "zhenghan1221@163.com"
+  },
+  "source": {
+    "git": "https://github.com/Hannah/TZCoupon.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TZCoupon/Classes/**/*"
+}

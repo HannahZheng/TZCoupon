@@ -1,0 +1,6 @@
+framework module TZCoupon {
+  umbrella header "TZCoupon-umbrella.h"
+
+  export *
+  module * { export * }
+}
